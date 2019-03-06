@@ -200,37 +200,3 @@ ya que para el testing tendrás que usar una herramienta llamada
 
 Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
 como: contraste, alineación, jerarquía, entre otros.
-
-## Evaluación
-
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
-
-### UX Design
-
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|User centricity| 5 |
-|Planificación| 4 |
-|Entrevistas y testing| 4 |
-|Observación| 4 |
-|Síntesis de resultados| 4 |
-|Flujos de usuario| 4 |
-|Arquitectura de la información| 3 |
-|Prototyping| 5 |
-|Business mindset| 5 |
-|Visual Design| 4 |
-
-### Soft skills
-
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de Problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo (trabajo colaborativo y responsabilidad)| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
